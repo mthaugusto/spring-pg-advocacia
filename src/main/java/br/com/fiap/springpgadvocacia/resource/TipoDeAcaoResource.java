@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Objects;
 
 
-@RequestMapping(value = "/tipodeacao")
+@RequestMapping(value = "/tipo-de-acao")
 @RestController
 public class TipoDeAcaoResource {
 
